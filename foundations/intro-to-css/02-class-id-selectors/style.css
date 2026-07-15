@@ -1,6 +1,6 @@
 /* Add CSS Styling */
 
-p {
+.odd {
     background-color: rgb(255,200,200);
     font-family:'Verdana', 'DejaVu Sans', sans-serif;
 }
@@ -10,7 +10,7 @@ p {
     font-size: 36px;
 }
 
-.odd3{
+.three {
     font-size: 24px;
 }
 
